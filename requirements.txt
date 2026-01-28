@@ -1,0 +1,5 @@
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+matplotlib>=3.4
+# WindPy  # 如需使用 Wind API，请在 Wind 终端环境中运行
