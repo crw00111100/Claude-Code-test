@@ -1,0 +1,4 @@
+# Generated output files
+*.png
+__pycache__/
+*.pyc
