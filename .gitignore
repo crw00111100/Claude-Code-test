@@ -2,3 +2,6 @@
 *.png
 __pycache__/
 *.pyc
+
+# Todo list data files
+todos.json
